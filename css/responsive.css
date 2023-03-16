@@ -64,7 +64,6 @@
     .konten1, .konten2, .konten3, .konten4{
         text-align: center;
         height: 500px;
-        display: flex;
         flex-direction: column;
     }
 
