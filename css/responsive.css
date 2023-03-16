@@ -1,5 +1,5 @@
 /* Untuk Tablet */
-@media all and (max-width: 1000px) {
+@media (max-width: 1000px) {
     h1 {
         font-size: 34px;
     }
@@ -31,7 +31,7 @@
 }
   
   /* Untuk Smartphone */
-@media all and (max-width: 670px) {
+@media (max-width: 670px) {
     .gambarKonten img{
         height: 250px;
         padding-left: 20px;
